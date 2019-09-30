@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TypeScript Next Boilerplate",
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 4000",
     "build": "next build",
     "start": "next start",
     "test": "jest",
